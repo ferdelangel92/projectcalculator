@@ -64,7 +64,6 @@ int main() {
 	return 0;
 }
 
-
 /*
 	It is can do operations with decimals.
 */
